@@ -25,3 +25,25 @@
     border: 0.5px solid black;
     background: linear-gradient(180deg, #eee 0%, #ccc 50%, #eee 100%);
 }
+
+#page-view{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.loginRegister-head{
+    text-align: center;
+}
+
+.loginRegister-credentials{
+    margin: 200px 0 0 200px;
+
+}
+
+/* #login-register{
+    width: 90vw;
+    height: 90vh;
+    border: 1px solid black;
+} */
